@@ -1,4 +1,4 @@
-# Radit Product Service
+# Radit Customer Service
 
 ### Dependencies
 
@@ -7,15 +7,6 @@ Check [`package.json`](package.json) file
 ### Tests
 
 Tests are written using Mocha and Chai, [here](./tests/)
-
-## Installation of Node.js
-
-Execute the below command in terminal
-
-```bash
-bash utils/bash_scripts/setup_node.sh
-```
-
 
 ## Setup and run the project
 
